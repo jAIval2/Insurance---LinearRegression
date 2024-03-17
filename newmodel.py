@@ -115,7 +115,7 @@ elif selected_page == "About Us":
 
     # Team or Developer Information (replace with your details)
     st.subheader("Developed by:")
-    st.write("Your Name/Team Name")
+    st.write("jaival,harsh,vedashree/litbombay")
     st.write("A passionate data enthusiast striving to make insurance cost estimation more accessible.")
 
     # App Functionality and Benefits
